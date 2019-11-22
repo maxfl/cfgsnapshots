@@ -1,0 +1,2 @@
+"ignore .git/ when determining root
+let g:CtrlSpaceProjectRootMarkers = [ ]

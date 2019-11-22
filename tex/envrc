@@ -1,0 +1,2 @@
+#path_add fish_user_paths $PWD/scripts
+export fish_history=<history>
